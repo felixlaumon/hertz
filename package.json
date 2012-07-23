@@ -1,0 +1,34 @@
+{
+  "name": "hertz",
+  "description": "Measures frame rate with requestAnimationFrame",
+  "version": "0.1.0",
+  "homepage": "https://github.com/felixlaumon/hertz",
+  "author": {
+    "name": "Felix Lau",
+    "email": "felix@onswipe.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/felixlaumon/hertz.git"
+  },
+  "bugs": {
+    "url": "https://github.com/felixlaumon/hertz/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/felixlaumon/hertz/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "lib/hertz",
+  "engines": {
+    "node": "*"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt": "~0.3.11"
+  },
+  "keywords": []
+}
